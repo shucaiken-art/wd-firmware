@@ -1,0 +1,14 @@
+D:\WD8TB\Build190FromTracks\Build190FromTracks\bin\Release\net8.0-windows\Build190FromTracks.exe
+D:\WD8TB\Build190FromTracks\Build190FromTracks\bin\Release\net8.0-windows\Build190FromTracks.deps.json
+D:\WD8TB\Build190FromTracks\Build190FromTracks\bin\Release\net8.0-windows\Build190FromTracks.runtimeconfig.json
+D:\WD8TB\Build190FromTracks\Build190FromTracks\bin\Release\net8.0-windows\Build190FromTracks.dll
+D:\WD8TB\Build190FromTracks\Build190FromTracks\bin\Release\net8.0-windows\Build190FromTracks.pdb
+D:\WD8TB\Build190FromTracks\Build190FromTracks\obj\Release\net8.0-windows\Build190FromTracks.GeneratedMSBuildEditorConfig.editorconfig
+D:\WD8TB\Build190FromTracks\Build190FromTracks\obj\Release\net8.0-windows\Build190FromTracks.AssemblyInfoInputs.cache
+D:\WD8TB\Build190FromTracks\Build190FromTracks\obj\Release\net8.0-windows\Build190FromTracks.AssemblyInfo.cs
+D:\WD8TB\Build190FromTracks\Build190FromTracks\obj\Release\net8.0-windows\Build190FromTracks.csproj.CoreCompileInputs.cache
+D:\WD8TB\Build190FromTracks\Build190FromTracks\obj\Release\net8.0-windows\Build190FromTracks.dll
+D:\WD8TB\Build190FromTracks\Build190FromTracks\obj\Release\net8.0-windows\refint\Build190FromTracks.dll
+D:\WD8TB\Build190FromTracks\Build190FromTracks\obj\Release\net8.0-windows\Build190FromTracks.pdb
+D:\WD8TB\Build190FromTracks\Build190FromTracks\obj\Release\net8.0-windows\Build190FromTracks.genruntimeconfig.cache
+D:\WD8TB\Build190FromTracks\Build190FromTracks\obj\Release\net8.0-windows\ref\Build190FromTracks.dll
